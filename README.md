@@ -1,9 +1,8 @@
-<h1 align="center">Hey  guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, I'm Kevin! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>I'm Kevin</b><br><br>
+    <b>...but the people who know their God shall be strong, and carry out great exploits. (Daniel 11:32)</b><br><br>
     <i>
-        #childofGod<br>
         C, Python and Django Enthusiast<br>
         Software Engineer in the making!<br>
     </i><br>
