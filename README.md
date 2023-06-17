@@ -21,16 +21,17 @@
 ### Languages
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/K-waks)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/K-waks)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/K-waks)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/K-waks)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/K-waks)
+[![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/K-waks)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/K-waks)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/K-waks)
 
 ### Technologies & Frameworks
 
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/K-waks)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/K-waks)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/K-waks)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/K-waks)
+[![Bootstrap5](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/K-waks)
+[![Vue.js](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js)](https://github.com/K-waks)
 
 ### OS
 
